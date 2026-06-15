@@ -40,3 +40,4 @@ The app includes a manifest and service worker for install support. Serve the bu
 - The schema uses row level security so authenticated users can manage all tasks, comments, and audit entries.
 - Profiles are keyed to Supabase Auth user IDs and restricted to display names Chris and Damien.
 - Completion records `completed_by` and `completed_at` even when the completer is not the assigned person.
+Initial Vercel deployment
